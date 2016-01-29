@@ -1,0 +1,28 @@
+{
+  "name": "c24-crm",
+  "version": "1.0.0",
+  "description": "CRM System",
+  "author": "Andreas Helmberger <public@ahelmberger.de>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c24-microws-jan/hello-world-service.git"
+  },
+  "keywords": [
+    "microservice",
+    "nodejs",
+    "example"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-live-server": "~0.0.29",
+    "gulp-shell": "~0.5.2",
+    "minimist": "~1.2.0",
+    "run-sequence": "~1.1.5",
+    "tiny-shipyard-client": "~1.1.0"
+  }
+}
